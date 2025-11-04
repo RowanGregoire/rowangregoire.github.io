@@ -1,1 +1,1 @@
-Personal academic website, from https://academicpages.github.io/.
+Rowan Gregoire's personal academic website. Template from https://academicpages.github.io/, with same licensing.
