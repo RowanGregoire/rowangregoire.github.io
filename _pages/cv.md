@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D**, Geosciences, University of Wisconsin - Madison, 2028 (expected)
+  * **Advisor**: Dr. Annie Bauer
+* **A.B.**, *magna cum laude*, Earth Sciences with high honors, Dartmouth College, 2024
+  * **Advisor**: Dr. Brenhin Keller
+  * **Thesis**: *Exposed Continental Crust and the Biosphere*
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -39,7 +41,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -47,11 +49,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -61,4 +63,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Treasurer, Geoscience Graduate Student Association (GGSA), UW-Madison, *2025 -*
+* Prospective Graduate Student Recruitment Committee, UW-Madison, *2025*
+* Undergraduate Faculty Search Committee, Dartmouth College, *2024*

@@ -4,15 +4,17 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<!-- Most of these publications may also be found on my <u><a href="https://scholar.google.com/citations?user=e_X_FwUAAAAJ">google scholar profile</a>.</u> -->
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
+---
 {% include base_path %}
 
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -30,7 +32,4 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
-
-
-
+{% endif %} -->

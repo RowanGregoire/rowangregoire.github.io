@@ -1,0 +1,18 @@
+---
+title: "Limits to timescale dependence in erosion rates: Quantifying glacial and fluvial erosion across timescales"
+collection: publications
+permalink: /publication/2024-12-20-glacial-erosion
+excerpt: ""
+date: 2024-12-20
+venue: 'Science Advances'
+paperurl: 'https://doi.org/10.1126/sciadv.adr2009'
+codeurl: 'https://github.com/mansakrishna23/glacial_erosion_rates'
+authors: 'Joel Wilner, Bailey Nordin, Alexander Getraer, Rowan Gregoire, Mansa Krishna, Jiawen Li, Derek Pickell, Emma Rogers, Kalin McDannell, Marisa Palucis, and Brenhin Keller,'
+citation: 'Wilner, J.A., Nordin, B.J., Getraer, A., Gregoire, R.M., Krishna, M., Li, J., Pickell, D.J., Rogers, E.R., McDannell, K.T., Palucis, M.C., Keller, C.B., 2024. Limits to timescale dependence in erosion rates: Quantifying glacial and fluvial erosion across timescales. Science Advances 10. https://doi.org/10.1126/sciadv.adr2009'
+
+---
+### Abstract 
+Earth’s topography and climate result from the competition between uplift and erosion, but it has been debated whether rivers or glaciers are more effective erosional agents. We present a global compilation of fluvial and glacial erosion rates alongside simple numerical experiments, which show that the “Sadler effect,” wherein geological rates show an inverse relationship with measurement timescale, comprises three distinct effects: a measurement thickness bias, a bias of erosion and redeposition, and a bias introduced by not observing quiescent intervals. Furthermore, we find that, globally, average glacial erosion rates exceed fluvial erosion rates through time by an order of magnitude, and that this difference cannot be explained by Sadlerian biases or by variations in hillslope, precipitation, or latitude. These findings support observations of increased erosion rates following Cenozoic cooling and glaciation, and reveal the importance of glacial erosion over millennial to orogenic timescales.
+
+### Suggested Citation
+Wilner, J.A., Nordin, B.J., Getraer, A., Gregoire, R.M., Krishna, M., Li, J., Pickell, D.J., Rogers, E.R., McDannell, K.T., Palucis, M.C., Keller, C.B., 2024. Limits to timescale dependence in erosion rates: Quantifying glacial and fluvial erosion across timescales. Science Advances 10. https://doi.org/10.1126/sciadv.adr2009
