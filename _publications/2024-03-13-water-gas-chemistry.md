@@ -6,6 +6,7 @@ excerpt: ""
 date: 2024-03-13
 venue: 'USGS data release'
 paperurl: 'https://doi.org/10.5066/P96Q13U3'
+openaccess: true
 authors: '<b>Rowan Gregoire</b>, Sara Peek, and Shaul Hurwitz'
 citation: 'Gregoire, R., Peek, S.E., and Hurwitz, S., 2024, Water and gas chemistry data from wells and hot springs in the Western USA, 1930 – 2006: U.S. Geological Survey data release, https://doi.org/10.5066/P96Q13U3. '
 

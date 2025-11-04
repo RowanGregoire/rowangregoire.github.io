@@ -1,6 +1,6 @@
 ---
 title: "EARS 2 - Evolution of Earth and Life"
-collection: teaching
+collection: tutoring
 type: "Undergraduate Group Tutor"
 permalink: /teaching/ears002
 venue: "Dartmouth College, Department of Earth Sciences"
@@ -8,7 +8,7 @@ date: 2023-01-01
 location: 'Hanover, NH'
 ---
 
-Introductory earth sciences covering the fundamentals of geosciences, focused on Earth history and the co-evolution of Earth and life. <br>**Taught:** Winter 2021 (remote), Winter 2022 (remote), Winter 2023
+Introductory earth sciences covering the fundamentals of geosciences, focused on Earth history. <br>**Taught:** Winter 2021 (remote), Winter 2022 (remote), Winter 2023
 
 ### Responsibilities
  * Develop instructional content for weekly meetings to review and reinforce key concepts

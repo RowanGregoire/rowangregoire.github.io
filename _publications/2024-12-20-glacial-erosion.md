@@ -7,6 +7,7 @@ date: 2024-12-20
 venue: 'Science Advances'
 paperurl: 'https://doi.org/10.1126/sciadv.adr2009'
 codeurl: 'https://github.com/mansakrishna23/glacial_erosion_rates'
+openaccess: true
 authors: 'Joel Wilner, Bailey Nordin, Alexander Getraer, <b>Rowan Gregoire</b>, Mansa Krishna, Jiawen Li, Derek Pickell, Emma Rogers, Kalin McDannell, Marisa Palucis, and Brenhin Keller'
 citation: 'Wilner, J.A., Nordin, B.J., Getraer, A., Gregoire, R.M., Krishna, M., Li, J., Pickell, D.J., Rogers, E.R., McDannell, K.T., Palucis, M.C., Keller, C.B., 2024. Limits to timescale dependence in erosion rates: Quantifying glacial and fluvial erosion across timescales. Science Advances 10. https://doi.org/10.1126/sciadv.adr2009'
 
