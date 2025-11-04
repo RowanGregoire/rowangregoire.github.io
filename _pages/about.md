@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in geoscience at the University of Wisconsin - Madison in Dr. Annie Bauer's [Earth Evolution Group](https://bauer.geoscience.wisc.edu/). My research uses geochemistry and computational sciences to understand the formation and evolution of Earth's continental crust over billion-year timescales. 
+I am a geoscience Ph.D. student at the University of Wisconsin - Madison in Dr. Annie Bauer's [Earth Evolution Group](https://bauer.geoscience.wisc.edu/). My research uses geochemistry and computational sciences to understand the formation and evolution of Earth's continental crust over billion-year timescales. 
 
 ## Research Interests
 
