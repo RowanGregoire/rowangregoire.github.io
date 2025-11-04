@@ -26,7 +26,7 @@ author:
   name             : "Rowan Gregoire"
   pronouns         : "he/him"  
   bio              : "geochemistry<br> Earth history<br> computational science"
-  location         : "University of Wisconsin--Madison"
+  location         : # "University of Wisconsin-<br>Madison"
   employer         : # "University of Wisconsin--Madison Geoscience"
   uri              : # URL
   email            : # "rowan (dot) gregoire (at) wisc.edu" 
