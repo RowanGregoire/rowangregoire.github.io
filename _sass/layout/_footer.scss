@@ -41,7 +41,7 @@
   }
 
   a {
-    color: var(--global-link-color-hover);
+    color: inherit;
     text-decoration: none;
 
     &:hover {
