@@ -11,7 +11,7 @@ redirect_from:
 
 *** 
 
-# Education
+## Education
 * **Ph.D** *in progress*, Geosciences, University of Wisconsin - Madison, 2028 (expected)
   * **Advisor**: Dr. Annie Bauer
 * **A.B.**, *magna cum laude*, Earth Sciences with high honors, Dartmouth College, 2024
@@ -46,7 +46,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3 -->
 
-# Publications
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -59,17 +59,17 @@ Skills
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-# Teaching
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ***
 
-# Service and leadership
-## UW-Madison
+## Service and leadership
+### UW-Madison
 * Treasurer, Geoscience Graduate Student Association (GGSA), UW-Madison, *2025 -*
 * Prospective Graduate Student Recruitment Committee, UW-Madison, *2025*
 
-## Dartmouth College
+### Dartmouth College
 * Undergraduate Faculty Search Committee, Dartmouth College, *2024*
