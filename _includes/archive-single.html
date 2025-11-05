@@ -26,16 +26,16 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2>
+    </h3>
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i></p>
+          <b>{{ post.venue }}</b>, {{ post.dept }} <br> <i>{{ post.type }}</i> <br> {{ post.taught }}
         {% elsif post.collection == 'publications' %}
           {{ post.authors }}<br><br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}:  <a href="{{ post.paperurl }}">{{ post.paperurl }}</a> 
             {% if post.openaccess %} 
@@ -60,6 +60,7 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
+    <p><hr></p>
+
   </article>
 </div>
