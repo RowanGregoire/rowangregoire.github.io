@@ -13,9 +13,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<!-- ***
+***
+<br>
 
 # Conference Presentations
-{% for post in site.conferences reversed %}
+
+***
+
+{% include base_path %}
+
+{% for post in site.talks reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
