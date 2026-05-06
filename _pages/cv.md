@@ -12,7 +12,7 @@ redirect_from:
 *** 
 
 ## Education
-* **Ph.D** *in progress*, Geosciences, University of Wisconsin - Madison, 2028 (expected)
+* **Ph.D** *in progress*, Geoscience, University of Wisconsin - Madison, (expected 2029)
   * **Advisor**: Dr. Annie Bauer
 * **A.B.**, *magna cum laude*, Earth Sciences with high honors, Dartmouth College, 2024
   * **Advisor**: Dr. Brenhin Keller
@@ -35,16 +35,7 @@ redirect_from:
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+  * Supervisor: Professor Git  -->
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
@@ -75,8 +66,18 @@ Skills
 
 ## Service and leadership
 ### UW-Madison
-* Treasurer, Geoscience Graduate Student Association (GGSA), UW-Madison, *2025 -*
+* Organizer, Very Early Career Talk Series, UW-Madison, *2025 - 2026*
+* Treasurer, Geoscience Graduate Student Association (GGSA), UW-Madison, *2025 - 2026*
 * Prospective Graduate Student Recruitment Committee, UW-Madison, *2025*
 
 ### Dartmouth College
-* Undergraduate Faculty Search Committee, Dartmouth College, *2024*
+* Undergraduate representative, Faculty Search Committee, Dartmouth College, *2024*
+
+<!-- Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3 -->
