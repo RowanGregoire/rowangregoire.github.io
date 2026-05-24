@@ -11,6 +11,9 @@ excerpt: "Introductory earth sciences covering the fundamentals of geosciences, 
 taught: "Winter 2021 (remote), Winter 2022 (remote), Winter 2023"
 
 ---
+### Course description 
+The presence of life on Earth potentially makes it unique in this solar system. The reasons that life emerged, persisted, and evolved on Earth are tied to Earth's geochemical and geophysical processes, such as the rock cycle and carbon cycle, which have been active on Earth since its formation 4.5 billion years ago. By examining how the biosphere has interacted with key geochemical and geophysical processes over this time, this course investigates how the evolution of the biosphere and geosphere has been a synergistic process throughout the entire history of the Earth that continues today.
+
 ### Responsibilities
  * Develop instructional content for weekly meetings to review and reinforce key concepts
  * Assist students with completing assignments.
