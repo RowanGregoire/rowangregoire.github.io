@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <!-- Most of these publications may also be found on my <u><a href="https://scholar.google.com/citations?user=e_X_FwUAAAAJ">google scholar profile</a>.</u> -->
+<i>Click titles to read the abstract. Most publications and presentations are are also found on my [Google Scholar profile](https://scholar.google.com/citations?user=e_X_FwUAAAAJ&hl=en)</i>
 
 ---
 {% include base_path %}
