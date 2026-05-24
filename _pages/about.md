@@ -8,15 +8,15 @@ redirect_from:
 
 I am a completing a Ph.D. in geoscience at the University of Wisconsin - Madison in Dr. Annie Bauer's [Earth Evolution Group](https://bauer.geoscience.wisc.edu/). 
 
-My research uses geochemistry and computational science to understand the formation and evolution of Earth's continental crust over billion-year timescales. 
+I use geochemistry and computational science to understand the formation and evolution of Earth's continental crust over billion-year timescales. 
 
 ## Research Interests
 
-**Detrital zircon geochemistry**  - detrital zircons are often the only record of igneous processes during the Hadean and Archean. I use trace element and isotopic geochemistry to reconstruct the initiation of plate tectonics in the Eoarchean.
+**Detrital zircon geochemistry**  - detrital zircons are often the only record of igneous processes during the Hadean and Archean. I use trace elements and isotopic tracers in zircon to reconstruct the initiation and character of plate tectonics in the Eoarchean.
 
-**Computational science and big data** - large repositories of geochemical data provide unique opportunities for research into the whole-Earth system. I am working on new methods to reduce sampling bias in these databases, and to constrain crustal composition over Earth's history and in the present.
+**Computational science and big data** - large repositories of geochemical data provide unique opportunities to understand long-term, whole-Earth processes. I am working on new methods to reduce sampling bias in these databases, and to constrain crustal composition over Earth's history and in the present.
 
-**Open-source software development (OSSD)** - I help develop freely available analysis and visualization methods for geochemical data in the Julia programming language. 
+**Open-source software development (OSSD)** - I develop freely available analysis and visualization methods for geochemical data in the Julia programming language. 
 
 ## Contact 
 rowan (dot) gregoire (at) wisc (dot) edu
