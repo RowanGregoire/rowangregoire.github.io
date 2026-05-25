@@ -37,14 +37,14 @@
         {% if post.collection == 'teaching' %}
           <b>{{ post.venue }}</b>, {{ post.dept }} <br> <i>{{ post.type }}</i> <br> {{ post.taught }}
         {% elsif post.collection == 'publications' %}
-          {{ post.authors }}<br><br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}:  <a href="{{ post.paperurl }}">{{ post.paperurl }}</a> 
+          {{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}:  <a href="{{ post.paperurl }}">{{ post.paperurl }}</a> 
             {% if post.openaccess %} 
             <i>(Open Access)</i>
             {% endif %}<br>
         {% elsif post.collection == 'talks' %}
-          {{ post.authors }}<br><br>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          {{ post.authors }}<br>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
         {% elsif post.collection == 'presentations' %}
-          {{ post.authors }}<br><br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} HERE
+          {{ post.authors }}<br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} HERE
         {% endif %}
 
      {% if post.preprinturl %}
@@ -62,7 +62,7 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    <p><hr></p>
+    <p></p>
 
   </article>
 </div>
