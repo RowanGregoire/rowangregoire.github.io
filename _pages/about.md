@@ -10,7 +10,7 @@ Earth is the only planet known to have subduction-driven active plate tectonics,
 
 To understand the interplays between these processes, I use geochemistry and computational science to study the formation and evolution of Earth's continental crust over billion-year timescales. I am particularly interested in early Earth processes, reconstructing the evolution of Earth as a habitable planet, and how the solid Earth influences and coevolves with the surface Earth and the biosphere. 
 
-I am currently completing a Ph.D. in geoscience at the University of Wisconsin - Madison in Dr. Annie Bauer's [Earth Evolution Group](https://bauer.geoscience.wisc.edu/). My research is also part of the ERC [Monitoring Earth Evolution Through Time](https://meet.osug.fr/) (MEET) project.
+I am currently completing a Ph.D. in geoscience at the University of Wisconsin - Madison in Dr. Annie Bauer's [Earth Evolution Group](https://bauer.geoscience.wisc.edu/). My research is part of the ERC [Monitoring Earth Evolution Through Time](https://meet.osug.fr/) (MEET) project.
 
 ## Current Projects
 
