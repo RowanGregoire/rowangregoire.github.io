@@ -6,21 +6,43 @@ redirect_from:
   - /about.html
 ---
 
-I am a completing a Ph.D. in geoscience at the University of Wisconsin - Madison in Dr. Annie Bauer's [Earth Evolution Group](https://bauer.geoscience.wisc.edu/). 
+Earth is the only planet known to have subduction-driven active plate tectonics, to form granitic continental crust, and to support life. 
 
-I use geochemistry and computational science to understand the formation and evolution of Earth's continental crust over billion-year timescales. 
+To understand the interplays between these processes, I use geochemistry and computational science to study the formation and evolution of Earth's continental crust over billion-year timescales. I am particularly interested in early Earth processes, reconstructing the evolution of Earth as a habitable planet, and how the solid Earth influences and coevolves with the surface Earth and the biosphere. 
 
-## Research Interests
+I am currently completing a Ph.D. in geoscience at the University of Wisconsin - Madison in Dr. Annie Bauer's [Earth Evolution Group](https://bauer.geoscience.wisc.edu/). My research is also part of the ERC [Monitoring Earth Evolution Through Time](https://meet.osug.fr/) (MEET) project.
 
-**Detrital zircon geochemistry**  - detrital zircons are often the only record of igneous processes during the Hadean and Archean. I use trace elements and isotopic tracers in zircon to reconstruct the initiation and character of plate tectonics in the Eoarchean.
+## Current Projects
 
-**Computational science and big data** - large repositories of geochemical data provide unique opportunities to understand long-term, whole-Earth processes. I am working on new methods to reduce sampling bias in these databases, and to constrain crustal composition over Earth's history and in the present.
+<style>
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    @media (max-width: 1250px) {
+      .container {
+        flex-direction: column;  /* mobile */
+      }
+    }
+</style>
 
-**Open-source software development (OSSD)** - I develop freely available analysis and visualization methods for geochemical data in the Julia programming language. 
+<div class="container">
+    <img style="width:320px;margin-right:15px" src="images/photos/Z247_CL_450x_B.png" alt="Cathodoluminescence image of a detrital zircon fragment."> 
+    <p><b>Detrital zircon geochemistry</b> - detrital zircons are often the only record of igneous processes during the Hadean and Archean. I use trace elements and isotopic tracers in zircon to reconstruct the initiation and character of diverse tectonic styles on the early Earth.</p>
+</div>
+<div style="clear :both;"></div><br>
+
+<div class="container">
+    <img style="width:320px;margin-right:15px" src="images/photos/gchem_database_locations.png" alt="Map of sample locations in a large geochemical database."> 
+    <p><b>Computational approaches to geoscience</b> - large geochemical databases provide unique opportunities to understand long-term, whole-Earth processes. I am working on new methods to reduce sampling bias in these databases, and to constrain crustal composition in the present and throughout Earth history.</p>
+</div>
+<div style="clear :both;"></div><br>
+
+**Open-source software development** - I develop freely available analysis and visualization methods for geochemical data in the Julia programming language. 
 
 ## Contact 
 rowan (dot) gregoire (at) wisc (dot) edu
-
 
 <!-- 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
