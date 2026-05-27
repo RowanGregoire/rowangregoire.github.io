@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and presentations"
 permalink: /publications/
 author_profile: true
 ---
 <!-- Most of these publications may also be found on my <u><a href="https://scholar.google.com/citations?user=e_X_FwUAAAAJ">google scholar profile</a>.</u> -->
-<i>Click titles to read the abstract. Most publications and presentations are on my [Google Scholar profile](https://scholar.google.com/citations?user=e_X_FwUAAAAJ&hl=en)</i>
+<i>Click titles for abstract and recommended citation. Most publications and presentations are on my [Google Scholar profile](https://scholar.google.com/citations?user=e_X_FwUAAAAJ&hl=en)</i>
 
+<br>
+
+# Publications
 ---
 {% include base_path %}
 

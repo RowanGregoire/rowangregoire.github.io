@@ -33,7 +33,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-
+    <p style="font-size:90%;">
         {% if post.collection == 'teaching' %}
           <b>{{ post.venue }}</b>, {{ post.dept }} <br> <i>{{ post.type }}</i> <br> {{ post.taught }}
         {% elsif post.collection == 'publications' %}
@@ -56,6 +56,7 @@
      {% if post.codeurl %}
      <a href="{{ post.codeurl }}">Code and Data</a>&nbsp;&nbsp;&nbsp;
      {% endif %}
+  </p>
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
