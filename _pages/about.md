@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Earth is the only planet known to have subduction-driven active plate tectonics, to form granitic continental crust, and to support life. 
+Earth is the only planet known to have subduction-driven active plate tectonics, strongly bimodal hypsometry, liquid surface water, and to support life. 
 
 To understand the interplays between these processes, I use geochemistry and computational science to study the formation and evolution of Earth's continental crust over billion-year timescales. I am particularly interested in early Earth processes, reconstructing the evolution of Earth as a habitable planet, and how the solid Earth influences and coevolves with the surface Earth and the biosphere. 
 
